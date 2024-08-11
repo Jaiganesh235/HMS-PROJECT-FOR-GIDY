@@ -32,5 +32,14 @@ The project deals with the hostel management system which is mainly useful for c
 ![Screenshot (373)](https://github.com/user-attachments/assets/98f86d16-67c4-4fa1-93d6-5cd4f2bef4ff)
 ![Screenshot (372)](https://github.com/user-attachments/assets/f24727e0-4052-4d5e-ac89-fbaecf22a69c)
 
+## RESULT:
+Hence, the hostel management system using python and streamlit is implemented successfully.
+
+## TEAM MEMBERS:
+1. JAIGANESH S AIML 3RD YR
+2. GOWRISANKAR P AIDS 3RD YR
+3. DIVYA K AIDS 3RD YR
+4. AADHITHYA IT 3RD YR
+SAVEETHA ENGINEERING COLLEGE (SEC)
 
    
