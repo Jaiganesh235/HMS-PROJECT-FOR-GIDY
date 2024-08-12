@@ -24,6 +24,27 @@ The project deals with the hostel management system which is mainly useful for c
 
 ### Security Module
 1. RECORD VISITOR
+   
+
+## FEATURES TO BE ADDED:
+Some of the features are in progress and will be added in this project.
+
+### Student Module
+1. Change room
+2. View roommates
+3. Raise outing request
+4. view outing request status
+5. request service
+6. view service requests
+
+### Admin Module
+1. Update student
+2. Manage outing request
+3. view student list
+4. manage service request
+5. add notice
+6. delete notice
+
 
 ## SAMPLE SCREENSHOT:
 ![Screenshot (369)](https://github.com/user-attachments/assets/490e883f-f89b-41ed-aa35-c70101dc164a)
