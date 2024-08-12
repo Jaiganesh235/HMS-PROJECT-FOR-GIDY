@@ -25,7 +25,7 @@ The project deals with the hostel management system which is mainly useful for c
 ### Security Module
 1. RECORD VISITOR
 
-## SAMPLE SCREENNSHOT:
+## SAMPLE SCREENSHOT:
 ![Screenshot (369)](https://github.com/user-attachments/assets/490e883f-f89b-41ed-aa35-c70101dc164a)
 ![Screenshot (370)](https://github.com/user-attachments/assets/ebf09f7b-0f67-4386-b9c0-6e8f453daa18)
 ![Screenshot (371)](https://github.com/user-attachments/assets/1add7652-c857-44e6-b8fd-df68a5951873)
