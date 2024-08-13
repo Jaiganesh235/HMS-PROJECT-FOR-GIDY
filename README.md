@@ -45,6 +45,8 @@ Some of the features are in progress and will be added in this project.
 5. add notice
 6. delete notice
 
+### Security Module
+1. View Visitor 
 
 ## SAMPLE SCREENSHOT:
 ![Screenshot (369)](https://github.com/user-attachments/assets/490e883f-f89b-41ed-aa35-c70101dc164a)
