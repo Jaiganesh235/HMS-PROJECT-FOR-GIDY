@@ -1,7 +1,7 @@
 # Hostel-Management-system
 
 ## Introduction:
-The project deals with the hostel management system which is mainly useful for college students and incharge by using python and streamlit.
+The project deals with the hostel management system which is mainly useful for college students and incharge by using python, streamlit and json file for storing the details.
 
 ## Features:
 
