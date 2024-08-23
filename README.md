@@ -49,11 +49,11 @@ Some of the features are in progress and will be added in this project.
 1. View Visitor 
 
 ## SAMPLE SCREENSHOT:
-![Screenshot (369)](https://github.com/user-attachments/assets/490e883f-f89b-41ed-aa35-c70101dc164a)
-![Screenshot (370)](https://github.com/user-attachments/assets/ebf09f7b-0f67-4386-b9c0-6e8f453daa18)
-![Screenshot (371)](https://github.com/user-attachments/assets/1add7652-c857-44e6-b8fd-df68a5951873)
-![Screenshot (373)](https://github.com/user-attachments/assets/98f86d16-67c4-4fa1-93d6-5cd4f2bef4ff)
-![Screenshot (372)](https://github.com/user-attachments/assets/f24727e0-4052-4d5e-ac89-fbaecf22a69c)
+![I1](https://github.com/user-attachments/assets/b1ed833c-6da3-4d5a-aff7-0f6fac0f11ab)
+![I2](https://github.com/user-attachments/assets/83e58b0f-8449-4042-87c4-1dee322cb321)
+![I3](https://github.com/user-attachments/assets/967d3055-7d39-40f2-8776-28d6b8529605)
+![I4](https://github.com/user-attachments/assets/35f1c46c-6779-4e73-a005-6f175abb7614)
+
 
 ## RESULT:
 Hence, the hostel management system using python and streamlit is implemented successfully.
